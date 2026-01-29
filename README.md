@@ -1,2 +1,4 @@
 # Seguridad_En_Redes_IngSoftware
-Soluciones de retos de PicoCTF
+## Soluciones de retos de PicoCTF
+
+- Jose Manuel Roberto Badillo.
