@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c51b6e554646276",
+        "id": "8b071885ede363e8",
         "type": "tabs",
         "children": [
           {
-            "id": "98326ecd5e467bbb",
+            "id": "6d07ba7a6dceb019",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Skills 2/repetitions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "repetitions"
+              "title": "New tab"
             }
           }
         ]
@@ -180,9 +176,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "98326ecd5e467bbb",
+  "active": "6d07ba7a6dceb019",
   "lastOpenFiles": [
+    "General Skills 3/Serpentine.md",
+    "General Skills 3/Super SSH.md",
+    "General Skills 3/Convertme.py.md",
     "Plantilla..md",
+    "General Skills 3/PW Crack 3.md",
+    "General Skills 3/runme.py.md",
+    "README.md",
+    "General Skills 3/PW Crack 2.md",
+    "General Skills 3/PW Crack 1.md",
+    "General Skills 3/fixme2.py.md",
+    "Pasted image 20260219211457.png",
+    "General Skills 3/fixme1.py.md",
+    "General Skills 3/Codebook.md",
+    "General Skills 1/what's a net cat?.md",
+    "General Skills 3",
+    "General Skills 1/plumbing.md",
+    "General Skills 1/Glitch Cat.md",
+    "General Skills 1/Bases.md",
+    "General Skills 1/2warm.md",
     "General Skills 2/repetitions.md",
     "General Skills 2/Magikarp Ground Mission.md",
     "General Skills 2/First Find.md",
@@ -191,24 +205,9 @@
     "Untitled.md",
     "General Skills 2/Useless.md",
     "General Skills 2/Wave a Flag.md",
-    "Pasted image 20260219211457.png",
     "Screenshot_2026-02-19_21-09-31.png",
     "General Skills 2/strings it.md",
-    "General Skills 2/Static ain't always noise.md",
-    "General Skills 2/Based.md",
-    "README.md",
-    "w.md",
-    "General Skills 1/First Grep.md",
     "General Skills 2",
-    "General Skills 1/Nice netcat....md",
-    "General Skills 1/Lets Warm Up..md",
-    "General Skills 1/Glitch Cat.md",
-    "General Skills 1/plumbing.md",
-    "General Skills 1/what's a net cat?.md",
-    "General Skills 1/Warmed Up.md",
-    "General Skills 1/Obedient Cat.md",
-    "General Skills 1/Bases.md",
-    "General Skills 1/2warm.md",
     "General Skills 1"
   ]
 }
