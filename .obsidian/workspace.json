@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 2/GET aHEAD.md",
+                "file": "Web 2/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GET aHEAD"
+              "title": "Scavenger Hunt"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "217c10b6b44c34f7",
   "lastOpenFiles": [
-    "Web 2/Cookies.md",
     "Web 2/GET aHEAD.md",
+    "Web 2/Scavenger Hunt.md",
+    "Web 2/Cookies.md",
     "Plantilla..md",
     "Web 1/logon.md",
     "Web 1/picobrowser.md",
@@ -211,7 +212,6 @@
     "General Skills 3/Super SSH.md",
     "General Skills 3/Convertme.py.md",
     "General Skills 3/PW Crack 3.md",
-    "General Skills 3/runme.py.md",
     "General Skills 3",
     "Screenshot_2026-02-19_21-09-31.png",
     "General Skills 2",
