@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web 4/01- MatchTheRegex.md",
+                "file": "Crypto Parte 3/Mini RSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- MatchTheRegex"
+              "title": "Mini RSA"
             }
           }
         ]
@@ -180,34 +180,37 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fd9867e4771d4773",
+  "active": "217c10b6b44c34f7",
   "lastOpenFiles": [
+    "Crypto Parte 3/Mind your Ps and Qs.md",
+    "Crypto Parte 3/Mini RSA.md",
+    "Web 4/02- Most Cookies.md",
+    "Tarea 2/02 - Inspect HTML.md",
+    "Crypto Parte 3",
+    "General Skills 3/PW Crack 3.md",
+    "General Skills 3/Convertme.py.md",
+    "Forensic 1/01 -Extensions.md",
+    "Forensic 1/02 - Glory of the Garden.md",
+    "Web 4/01- MatchTheRegex.md",
+    "Web 4/03 -SOAP.md",
+    "Tarea 2/10 -SQLiLite.md",
+    "Forensic 1/05 -What Lies Within.md",
+    "Forensic 1/04 - So Meta.md",
+    "Forensic 1/03 -Shark on Wire 1.md",
+    "Forensic 1",
+    "Tarea 2/09 - secrets.md",
+    "Tarea 2/08 -roboto sans.md",
+    "Tarea 2/07 - power cookie.md",
+    "Tarea 2/06 - Web Decode.md",
+    "Tarea 2/05 -Unminify.md",
+    "Tarea 2/04 - local Authority.md",
+    "Tarea 2/03 - IntroToBurp.md",
+    "Tarea 2/01 . includes.md",
+    "Tarea 2",
     "Examen 1er parcial/Web/SSTI2.md",
     "Examen 1er parcial/Web/SSTI1.md",
     "Examen 1er parcial/Web/SQL_DIRECT.md",
     "Examen 1er parcial/Web/Java Code Analysis.md",
-    "Examen 1er parcial/Web/findme.md",
-    "Examen 1er parcial/Web/Cookie Monster Secret Recipe.md",
-    "Examen 1er parcial/Web/Bookmarklet.md",
-    "Examen 1er parcial/Web/SansAlpha.md",
-    "Examen 1er parcial/Web/Rust fixme 3.md",
-    "Examen 1er parcial/Web/Rust fixme 2.md",
-    "Examen 1er parcial/Web/Rust fixme 1.md",
-    "Examen 1er parcial/Web/Python Wrangling.md",
-    "Examen 1er parcial/Web/Hashing job app.md",
-    "Examen 1er parcial/Web/flag_shop.md",
-    "Examen 1er parcial/Web/FANTASY CTF.md",
-    "Examen 1er parcial/Web/dont-you-love-banners.md",
-    "Examen 1er parcial/General Skills/SansAlpha.md",
-    "Examen 1er parcial/General Skills/Rust fixme 3.md",
-    "Examen 1er parcial/General Skills/Rust fixme 2.md",
-    "Examen 1er parcial/General Skills/Rust fixme 1.md",
-    "Examen 1er parcial/General Skills/Python Wrangling.md",
-    "Examen 1er parcial/General Skills/Hashing job app.md",
-    "Examen 1er parcial/General Skills/flag_shop.md",
-    "Examen 1er parcial/General Skills/FANTASY CTF.md",
-    "Examen 1er parcial/General Skills/dont-you-love-banners.md",
-    "Web 4/03 -SOAP.md",
     "Examen 1er parcial/General Skills",
     "Examen 1er parcial/Web",
     "Examen 1er parcial",
@@ -216,9 +219,6 @@
     "Web 3",
     "Pasted image 20260219211457.png",
     "Web 2",
-    "Web 1",
-    "Tarea 1",
-    "General Skills 3",
     "Screenshot_2026-02-19_21-09-31.png"
   ]
 }
